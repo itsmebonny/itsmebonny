@@ -47,9 +47,8 @@ Other challenges can be found in the [APC](https://github.com/itsmebonny/APC) re
 
 ## 🌱 What I’m Working On  
 - Experimenting with **AI for Scientific Computing**  
-- Exploring advanced applications of **Graph Neural Networks**  
-- Simulating soft robotics using **SOFA Framework**  
-
+- Exploring the possibilities of self-supervised learning
+- Mixing PDEs and Neural Networks
 ---
 
 ## 📫 Get in Touch  
