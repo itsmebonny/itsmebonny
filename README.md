@@ -16,7 +16,7 @@ A Python-based library to solve Partial Differential Equations (PDEs) using **Gr
 
 ---
 
-### 🛠️ [SOFA Playground](https://github.com/itsmebonny/SOFA_neural_modes)  
+### 🛠️ [Neural Modes](https://github.com/itsmebonny/SOFA_neural_modes)  
 **Accelerating Numerical Simulations** 🏎️✨  
 An experimental space for working with the **SOFA Framework**, this project focuses on accelerating **numerical simulations** using various ML techniques.
 
